@@ -1,0 +1,1 @@
+const API_KEY = '' //Obtener la API KEY de GIPHY https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key
